@@ -1,0 +1,3 @@
+hello ths is log file
+this is first occ of replaced
+this is replaced second occ
